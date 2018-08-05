@@ -1,0 +1,14 @@
+body {
+    background-color:  #99ffbb;
+}
+#sing-up-information {
+    width: 30%;
+    margin: auto;
+    padding: 3%;
+    background-color:  #80aaff;
+}
+#sing-up-information > *{
+    padding: 3%;
+    margin: 3%;
+    width: 80%;
+}
