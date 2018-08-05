@@ -1,0 +1,8 @@
+.container > div {
+    display: inline-block;
+}
+.stack-bucket {
+    color: #b3b3ff;
+    width: 20%;
+    background-color:  #99ccff;
+}
